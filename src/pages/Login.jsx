@@ -8,10 +8,12 @@ const Login = () => {
           <img src="{deliveryboy}" alt="" className="rotate" />
         </div>
         <div className=""></div>
+        
         <form>
-          <div className="flex flex-col gap-2 mt-4">
-            <label htmlFor="email">Email</label>
-            <input type="text" id="email"  />
+          
+          <div className="flex flex-col gap-2 mt-4 border-2 bg-amber-50">
+            <label htmlFor="email">Email:</label>
+            <input type="text" id="email" placeholder="enter your email" />
           </div>
         </form>
       </div>
