@@ -31,7 +31,7 @@ const Login = () => {
               </div>
             </div>
 
-            <button className="bg-blue-700 px-0.5">Login</button>
+            <button className="bg-blue-700 px-0.5">Login karo</button>
 
             <p className="text-center">Don't have an account?</p>
             <a href="#" className="text-center text-amber-800">Create an account</a>
